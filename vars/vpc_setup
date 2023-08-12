@@ -20,3 +20,7 @@ zone2: us-east-2b
 zone3: us-east-2c
 
 state: present
+
+# Bastion hosts details
+bastion_ami: ami-03657b56516ab7912
+MYIP: 223.233.80.78/32
